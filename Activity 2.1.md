@@ -1,5 +1,6 @@
-1. Exercise 2.3. Assume that we execute the following assignment statements:
-width = 17
+###  Exercise 2.3. 
+Assume that we execute the following assignment statements:
+                            width = 17
 height = 12.0
 delimiter = '.'
 For each of the following expressions, write the value of the expression and the type (of the value of
