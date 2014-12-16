@@ -1,5 +1,5 @@
 ###  Exercise 2.3. 
-Assume that we execute the following assignment statements:
+#### Assume that we execute the following assignment statements:
                             width = 17
 height = 12.0
 delimiter = '.'
