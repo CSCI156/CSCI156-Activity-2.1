@@ -23,7 +23,6 @@ Use the Python interpreter to check your answers.
 #### 3. Store your name in a variable. Put the string “My name is” in another variable. Use these two variables to print the string 
                             My name is <your name>
 
-
 ####Bonus: Print
         Hello
         World!
