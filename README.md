@@ -4,8 +4,7 @@
         height = 12.0
         delimiter = '.'
 
-For each of the following expressions, write the value of the expression and the type (of the value of
-the expression).
+For each of the following expressions, figure out the value of the expression and the type of the value (int, float, or string).
 
         i. width/2
 
