@@ -6,6 +6,7 @@
 
 For each of the following expressions, write the value of the expression and the type (of the value of
 the expression).
+
         i. width/2
 
         ii. width/2.0
