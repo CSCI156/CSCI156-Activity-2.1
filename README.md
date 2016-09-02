@@ -1,6 +1,6 @@
 ###  Exercise 2.3. 
 #### 1. Assume that we execute the following assignment statements:
-        width = 17
+        width = 16
         height = 12.0
         delimiter = '.'
 
