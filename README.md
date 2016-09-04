@@ -1,4 +1,4 @@
-###  Exercise 2.3. 
+###  Exercise 2.1. 
 #### 1. Assume that we execute the following assignment statements:
         width = 16
         height = 12.0
