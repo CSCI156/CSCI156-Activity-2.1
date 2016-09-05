@@ -18,9 +18,23 @@ For each of the following expressions, figure out the value of the expression an
 
 Use the Python interpreter to check your answers.
 
-#### 2. Use Python to print 23 a’s without typing 23 a’s.
+#### 2. You can force an answer to be an integer using the int(command). What is the output from the following code?
 
-#### 3. Store your name in a variable. Put the string “My name is” in another variable. Use these two variables to print the string 
+```
+print(8/2)
+<br>
+print(int(8/2)
+<br>
+print(9/2)
+<br>
+print(int(9.9/2)
+``` 
+
+What does int() do to decimals?
+
+#### 3. Use Python to print 23 a’s without typing 23 a’s.
+
+#### 4. Store your name in a variable. Put the string “My name is” in another variable. Use these two variables to print the string 
                             My name is <your name>
 
 
