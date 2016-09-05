@@ -22,11 +22,8 @@ Use the Python interpreter to check your answers.
 
 ```
 print(8/2)
-<br>
 print(int(8/2)
-<br>
-print(9/2)
-<br>
+print(int(9/2))
 print(int(9.9/2)
 ``` 
 
