@@ -24,7 +24,6 @@ print(variable*25)
 
 my = "Kaitlyn"
 name = "My name is"
-print(name+my)
+print(name+" "+my)
 
-print("Hello"
-      "World!")
+print("Hello \n World!")
